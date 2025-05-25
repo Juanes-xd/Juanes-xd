@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juanes Ortiz</h1>
-<h3 align="center">I'm a passionate full-stack developer from Cali, Colombia, and currently a software engineering student.</h3>
-
-- 🌱 I’m currently learning **Spring, Go, Python, Angular and some about of AI**
+<h3 align="center">I'm a passionate full-stack developer from Cali, Colombia and currently a software engineering student.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
